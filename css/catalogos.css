@@ -1,0 +1,19 @@
+
+.container-content article img{
+    width: 322px;
+    height: 441px;
+    display: flex;
+    left: 0;
+    top: 0;
+}
+.container-content article a button{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px 50px;
+    font-size: 16px;
+    background: sandybrown;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;  
+}
