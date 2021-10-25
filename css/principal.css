@@ -269,4 +269,11 @@ header{
     #icon-menu{
         display: flex;
     }
+
+
+.container-aside{
+    display: none;
+    width: 0;
+    height: 0;
+}
 }
